@@ -9,6 +9,10 @@ e onde adicionei uma segunda tela, com agradecimento
 <br>
 <br>
 <br>
-<img src="./Tela obrigado/assets/">
+<img src="./Tela obrigado/assets/Captura de Tela (1).png">
 <br>
-<img src="./assets/Captura de Tela (2).png">
+<img src="./Tela obrigado/assets/Captura de Tela (2).png">
+<br>
+<img src="./Tela obrigado/assets/Captura de Tela (3).png">
+<br>
+<img src="./Tela obrigado/assets/Captura de Tela (4).png">
